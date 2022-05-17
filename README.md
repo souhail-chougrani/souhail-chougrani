@@ -20,8 +20,10 @@ I am an engineer/geek from Morocco 👋.
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6483915)](https://stackoverflow.com/users/6483915/souhail-chougrani)
 
 Things I am interested nowadays
-======
-<br/>
+---------------	
+
+
+
 Java/JEE or Spring boot projects
 <br/>
 AWS
@@ -32,7 +34,7 @@ Minimal and fast systems
 
 
 Programming languages I use the most
-======
+---------------	
 
 
 
@@ -46,7 +48,9 @@ Programming languages I use the most
 
 
 Things I am passionate about outside of work
-======
+---------------	
+
+
 Video games
 <br/>
 Music
