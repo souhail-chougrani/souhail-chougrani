@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **souhail-chougrani/souhail-chougrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am an engineer/geek from Morocco.
+I am an engineer/geek from Morocco 👋.
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6483915)](https://stackoverflow.com/users/6483915/souhail-chougrani)
 
